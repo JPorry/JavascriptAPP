@@ -7,7 +7,3 @@ _Description: Sample application with a modular decoupled architecture, using ha
 Based on the previous work of
 
 Addy Osmani, Andrew Burgess and Nicolas C. Zakas
-
-
-
-## License
